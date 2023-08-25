@@ -9,3 +9,5 @@
 4 Problem 4 :Ranking Rows of Pandas DataFrame	(	https://www.geeksforgeeks.org/ranking-rows-of-pandas-dataframe/)
 
 5 Problem 5 :Sorting rows in pandas DataFrame	(	https://www.geeksforgeeks.org/sorting-rows-in-pandas-dataframe/)
+
+6 Problem 6 :Fix Names in a Table	(	https://leetcode.com/problems/fix-names-in-a-table/ )
